@@ -1,0 +1,7 @@
+C:\Users\Szabolcs\source\repos\Hunter\Hunter\bin\Debug\Hunter.exe.config
+C:\Users\Szabolcs\source\repos\Hunter\Hunter\bin\Debug\Hunter.exe
+C:\Users\Szabolcs\source\repos\Hunter\Hunter\bin\Debug\Hunter.pdb
+C:\Users\Szabolcs\source\repos\Hunter\Hunter\obj\Debug\Hunter.csproj.AssemblyReference.cache
+C:\Users\Szabolcs\source\repos\Hunter\Hunter\obj\Debug\Hunter.csproj.CoreCompileInputs.cache
+C:\Users\Szabolcs\source\repos\Hunter\Hunter\obj\Debug\Hunter.exe
+C:\Users\Szabolcs\source\repos\Hunter\Hunter\obj\Debug\Hunter.pdb

@@ -1,0 +1,7 @@
+C:\Users\Szabolcs\source\repos\MyFurniture\MyFurniture\bin\Debug\MyFurniture.exe.config
+C:\Users\Szabolcs\source\repos\MyFurniture\MyFurniture\bin\Debug\MyFurniture.exe
+C:\Users\Szabolcs\source\repos\MyFurniture\MyFurniture\bin\Debug\MyFurniture.pdb
+C:\Users\Szabolcs\source\repos\MyFurniture\MyFurniture\obj\Debug\MyFurniture.csproj.AssemblyReference.cache
+C:\Users\Szabolcs\source\repos\MyFurniture\MyFurniture\obj\Debug\MyFurniture.csproj.CoreCompileInputs.cache
+C:\Users\Szabolcs\source\repos\MyFurniture\MyFurniture\obj\Debug\MyFurniture.exe
+C:\Users\Szabolcs\source\repos\MyFurniture\MyFurniture\obj\Debug\MyFurniture.pdb
