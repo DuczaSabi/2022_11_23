@@ -1,0 +1,7 @@
+C:\Users\Szabolcs\source\repos\TihiFeladat\TihiFeladat\bin\Debug\TihiFeladat.exe.config
+C:\Users\Szabolcs\source\repos\TihiFeladat\TihiFeladat\bin\Debug\TihiFeladat.exe
+C:\Users\Szabolcs\source\repos\TihiFeladat\TihiFeladat\bin\Debug\TihiFeladat.pdb
+C:\Users\Szabolcs\source\repos\TihiFeladat\TihiFeladat\obj\Debug\TihiFeladat.csproj.AssemblyReference.cache
+C:\Users\Szabolcs\source\repos\TihiFeladat\TihiFeladat\obj\Debug\TihiFeladat.csproj.CoreCompileInputs.cache
+C:\Users\Szabolcs\source\repos\TihiFeladat\TihiFeladat\obj\Debug\TihiFeladat.exe
+C:\Users\Szabolcs\source\repos\TihiFeladat\TihiFeladat\obj\Debug\TihiFeladat.pdb
